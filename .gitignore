@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+*.pth
+pdfs
+nohup.out
+.ipynb_checkpoints
+*.csv
